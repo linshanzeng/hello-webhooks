@@ -1,5 +1,5 @@
 #!/bin/sh
-# 1234567
+# 12345678
 echo '添加'
 git add .
 echo 'commit'
