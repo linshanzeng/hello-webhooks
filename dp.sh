@@ -1,4 +1,5 @@
 #!/bin/sh
+# 1
 echo '添加'
 git add .
 echo 'commit'
